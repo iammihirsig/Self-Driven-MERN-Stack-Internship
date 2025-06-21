@@ -55,7 +55,7 @@ So I designed this 30-day internship for myself — where:
 | 5  | HTML5                             | 20 June 2025       | ~0.5 day      | ✅ Done        |
 | 6  | CSS3                              | 20 June 2025       | ~0.5 day      | ✅ Done        |
 | 7  | Set Up Internship Repo            | 21 June 2025       | 2 hours       | ✅ Done        |
-| 8  | Tailwind CSS + Practice Project   | 21-22 June 2025    | Ongoing       | 🔄 In Progress |
+| 8  | Tailwind CSS + Practice Project   | 21-xx June 2025    | Ongoing       | 🔄 In Progress |
 
 </div>
 
