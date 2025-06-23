@@ -74,7 +74,7 @@ So I designed this 30-day internship for myself — where:
 | 5   | 19 June 2025    | ✅ [Continued deep dive into MySQL. Practiced joins, subqueries, and schema design.](https://www.linkedin.com/posts/iammihirsig_devjourney-mysql-backenddevelopment-activity-7340580020244967424-I9iw)                                                       |
 | 6   | 20 June 2025    | ✅ [Completed HTML5. <br>✅ Started CSS3 basics.](https://www.linkedin.com/posts/iammihirsig_devjourney-frontenddevelopment-tailwindcss-activity-7342108993999261696-GZEQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbgrD0Bzyewf8Nkdc3ZDz7rrVWlNnnBFl4)|
 | 7   | 21 June 2025    | ✅ [Completed CSS3 & TailwindCSS. <br>✅ Set up this internship repo with roadmap, log system, and readme. <br>✅ Started working on ToDesktop project using TailwindCSS](https://www.linkedin.com/posts/iammihirsig_devjourney-frontenddevelopment-tailwindcss-activity-7342108993999261696-GZEQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbgrD0Bzyewf8Nkdc3ZDz7rrVWlNnnBFl4)|
-| 8-9 | 22-23 June 2025 | ⏳ [Started learning JavaScript. <br>⏳ Continued working on ToDesktop project using TailwindCSS]() |
+| 8-9 | 22-23 June 2025 | ⏳ [Started learning JavaScript. <br>⏳ Continued working on ToDesktop project using TailwindCSS](https://www.linkedin.com/posts/iammihirsig_frontenddev-javascript-tailwindcss-activity-7342874399278080000-CkEb?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbgrD0Bzyewf8Nkdc3ZDz7rrVWlNnnBFl4) |
 
 
 </div>
