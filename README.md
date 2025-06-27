@@ -77,6 +77,7 @@ So I designed this 30-day internship for myself — where:
 | 8-9 | 22-23 June 2025 | ✅ [Started learning JavaScript. <br>✅ Continued working on ToDesktop project using TailwindCSS (Completed Nav Section)](https://www.linkedin.com/posts/iammihirsig_frontenddev-javascript-tailwindcss-activity-7342874399278080000-CkEb?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbgrD0Bzyewf8Nkdc3ZDz7rrVWlNnnBFl4) |
 | 10 | 24 June 2025 | ✅ [Continued learning JavaScript. <br>✅ Continued working on ToDesktop project using TailwindCSS (Completed Hero Section)](https://www.linkedin.com/posts/iammihirsig_javascript-tailwindcss-frontenddevelopment-activity-7343320017343533057-jAYa?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbgrD0Bzyewf8Nkdc3ZDz7rrVWlNnnBFl4) |
 | 11 | 25 June 2025 | ✅ [Continued learning JavaScript. <br>✅ Continued working on ToDesktop project using TailwindCSS (Completed Company Lines Section)](https://www.linkedin.com/posts/iammihirsig_frontenddevelopment-javascript-opensource-activity-7343653596221083648-3Ls6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbgrD0Bzyewf8Nkdc3ZDz7rrVWlNnnBFl4) |
+| 12-13 | 26-27 June 2025 | ✅ [Continued learning JavaScript. <br>✅ Continued working on ToDesktop project using TailwindCSS (Completed Steps Cards Section)](https://www.linkedin.com/posts/iammihirsig_frontenddevelopment-javascript-tailwindcss-activity-7344392494832357376-r2ac?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbgrD0Bzyewf8Nkdc3ZDz7rrVWlNnnBFl4) |
 
 
 </div>
