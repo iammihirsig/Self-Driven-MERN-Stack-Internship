@@ -78,6 +78,7 @@ So I designed this 30-day internship for myself — where:
 | 10 | 24 June 2025 | ✅ [Continued learning JavaScript. <br>✅ Continued working on ToDesktop project using TailwindCSS (Completed Hero Section)](https://www.linkedin.com/posts/iammihirsig_javascript-tailwindcss-frontenddevelopment-activity-7343320017343533057-jAYa?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbgrD0Bzyewf8Nkdc3ZDz7rrVWlNnnBFl4) |
 | 11 | 25 June 2025 | ✅ [Continued learning JavaScript. <br>✅ Continued working on ToDesktop project using TailwindCSS (Completed Company Lines Section)](https://www.linkedin.com/posts/iammihirsig_frontenddevelopment-javascript-opensource-activity-7343653596221083648-3Ls6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbgrD0Bzyewf8Nkdc3ZDz7rrVWlNnnBFl4) |
 | 12-13 | 26-27 June 2025 | ✅ [Continued learning JavaScript. <br>✅ Continued working on ToDesktop project using TailwindCSS (Completed Steps Cards Section)](https://www.linkedin.com/posts/iammihirsig_frontenddevelopment-javascript-tailwindcss-activity-7344392494832357376-r2ac?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbgrD0Bzyewf8Nkdc3ZDz7rrVWlNnnBFl4) |
+| 14-15 | 28-29 June 2025 | ✅ [Continued learning JavaScript. <br>✅ Continued working on ToDesktop project using TailwindCSS (Completed Bento Grid & Company Feautre Line)](https://www.linkedin.com/posts/iammihirsig_javascript-dommanipulation-webdev-activity-7345125845746753536--nB_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbgrD0Bzyewf8Nkdc3ZDz7rrVWlNnnBFl4) |
 
 
 </div>
