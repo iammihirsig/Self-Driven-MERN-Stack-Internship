@@ -96,14 +96,12 @@ So I designed this 30-day internship for myself — where:
 
 <div align="center">
 
-| Project     | Live Demo     | GitHub Code    |
-|-------------|---------------|----------------|
-| Project 1   | _Coming Soon_ | _Coming Soon_  |
-| Project 2   | _Coming Soon_ | _Coming Soon_  |
-| Project 3   | _Coming Soon_ | _Coming Soon_  |
-| Project 4   | _Coming Soon_ | _Coming Soon_  |
+| Project         | Description                             | Live Demo                                        | GitHub Code                                       |
+|-----------------|-----------------------------------------|--------------------------------------------------|---------------------------------------------------|
+| **ToDesktop**   | Industry level UI Website In Tailwind   | [Live](https://iammihirsig.github.io/ToDesktop/) | [Repo](https://github.com/iammihirsig/ToDesktop)  |
 
 </div>
+
 
 ---
 
