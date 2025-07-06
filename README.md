@@ -47,16 +47,16 @@ So I designed this 30-day internship for myself — where:
 <div align="center">
 
 | #  | Skill / Task                      | 📅 Date(s)         | ⏱️ Time Taken | Status        |
-|----|----------------------------------|--------------------|---------------|---------------|
-| 1  | Git, GitHub, LazyGit              | 15–16 June 2025    | 2 days        | ✅ Done        |
-| 2  | Figma Design Basics               | 17 June 2025       | 1 day         | ✅ Done        |
-| 3  | C++ Fundamentals                  | 18 June 2025       | 1 day         | ✅ Done        |
-| 4  | MySQL                             | 19 June 2025       | 2 days        | ✅ Done        |
-| 5  | HTML5                             | 20 June 2025       | ~0.5 day      | ✅ Done        |
-| 6  | CSS3                              | 20 June 2025       | ~0.5 day      | ✅ Done        |
-| 7  | Set Up Internship Repo            | 21 June 2025       | 2 hours       | ✅ Done        |
-| 8  | Tailwind CSS + Practice Project   | 21-xx June 2025    | Ongoing       | 🔄 In Progress |
-| 9  | JavaScript                        | 22-xx June 2025    | Ongoing       | 🔄 In Progress |
+|----|----------------------------------|---------------------------|---------------|---------------|
+| 1  | Git, GitHub, LazyGit              | 15–16 June 2025          | 2 days        | ✅ Done        |
+| 2  | Figma Design Basics               | 17 June 2025             | 1 day         | ✅ Done        |
+| 3  | C++ Fundamentals                  | 18 June 2025             | 1 day         | ✅ Done        |
+| 4  | MySQL                             | 19 June 2025             | 2 days        | ✅ Done        |
+| 5  | HTML5                             | 20 June 2025             | ~0.5 day      | ✅ Done        |
+| 6  | CSS3                              | 20 June 2025             | ~0.5 day      | ✅ Done        |
+| 7  | Set Up Internship Repo            | 21 June 2025             | 2 hours       | ✅ Done        |
+| 8  | Tailwind CSS + Practice Project   | 21 June-06 July 2025     | 36 hours      | ✅ Done        |
+| 9  | JavaScript                        | 22-xx June 2025          | Ongoing       | 🔄 In Progress |
 
 </div>
 
