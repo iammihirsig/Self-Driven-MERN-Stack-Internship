@@ -82,6 +82,9 @@ So I designed this 30-day internship for myself — where:
 | 16-17 | 30 Jun - 1 July 2025 | ✅ [Continued learning JavaScript (DOM Manipulation). <br>✅ Continued working on ToDesktop project using TailwindCSS (Completed Customer Stories & CTA Section, Tried Making A Reel & Learned The Costly Lesson)](https://www.linkedin.com/posts/iammihirsig_buildinpublic-webdevelopment-100daysofcode-activity-7345860397792378880-JR2a?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbgrD0Bzyewf8Nkdc3ZDz7rrVWlNnnBFl4) |
 | 18 | 2 July 2025 | ✅ [Continued learning JavaScript (Advance Concept/Events/OOPS). <br>✅ Continued working on ToDesktop project using TailwindCSS (Completed Pricing Section)](https://www.linkedin.com/posts/iammihirsig_mernstack-webdevelopment-buildinpublic-activity-7346216169491570688-etRX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbgrD0Bzyewf8Nkdc3ZDz7rrVWlNnnBFl4) |
 | 19 | 3 July 2025 | ✅ [Skipped JavaScript (No Electricity). <br>✅ Continued working on ToDesktop project using TailwindCSS (Completed Special Enterprice Section & Many Minor Bug Fixes Including Full Layout Adjustment)](https://www.linkedin.com/posts/iammihirsig_buildinpublic-mernstack-tailwindcss-activity-7346600827203047424-l4Rg?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbgrD0Bzyewf8Nkdc3ZDz7rrVWlNnnBFl4) |
+| 20-23 | 4-7 July 2025 | 🤒 [Skipped JavaScript (Burnout, Too Many Pressure, Got Sick, Campus Placement, Projects & More..). <br>✅ Continued working on ToDesktop project using TailwindCSS (Completed Entire Project, Updated Readme & Deployed)](https://www.linkedin.com/posts/iammihirsig_buildinpublic-developerjourney-javascript-activity-7348007817858924547-zP6Z?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbgrD0Bzyewf8Nkdc3ZDz7rrVWlNnnBFl4)|
+
+
 
 
 </div>
