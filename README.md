@@ -22,7 +22,7 @@ No certificates, no fluff — just **real proof of work**.
 - ✅ Become MERN-ready (MongoDB, Express, React, Node.js)  
 - ✅ Build and deploy 3+ MERN stack projects  
 - ✅ Log daily progress publicly and consistently  
-- ✅ Create a strong developer portfolio before July 15, 2025  
+- ✅ Create a strong developer portfolio before August 15, 2025  
 - ✅ Apply for jobs, freelance, or paid work starting mid-July  
 
 ---
