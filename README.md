@@ -1,17 +1,17 @@
 ![Banner](https://github.com/user-attachments/assets/8f33d7aa-6e8a-4688-af20-fc245a494401)
 
-# 🚀 Self-Driven MERN Stack Internship (15 June – 15 July 2025)
+# 🚀 Self-Driven MERN Stack Internship (15 June – 15 August 2025)
 
 > [!IMPORTANT]
 > **“Rejected by companies. Accepted by the grind.”**  
-> This is my solo internship — built with discipline, vision, and the goal to become job-ready in 30 days.  
+> This is my solo internship — built with discipline, vision, and the goal to become job-ready in 60 days.  
 > **I’m not waiting for opportunities. I’m creating them.**
 
 ---
 
 ## 📌 Overview
 
-This is a **self-directed MERN Stack internship** I’m running solo from **June 15 to July 15, 2025**.  
+This is a **self-directed MERN Stack internship** I’m running solo from **June 15 to August 15, 2025**.  
 It’s structured like a real internship — daily logging, milestone tracking, and hands-on projects — with accountability in public.  
 No certificates, no fluff — just **real proof of work**.
 
@@ -30,7 +30,7 @@ No certificates, no fluff — just **real proof of work**.
 ## 🔥 Why I Curated This Internship
 
 I’ve been rejected from companies that judge candidates by marks, not skills.  
-So I designed this 30-day internship for myself — where:
+So I designed this 60-day internship for myself — where:
 
 - I’m my own manager, mentor, and intern.  
 - I set deadlines, ship code, and stay consistent.  
@@ -91,7 +91,7 @@ So I designed this 30-day internship for myself — where:
 
 
 > [!NOTE]
-> New logs will be added daily after Day 7.
+> New logs is added daily after Day 7 (It depends, Sometimes I got too busy, so I post 2,3 days combined achievements).
 
 ---
 
