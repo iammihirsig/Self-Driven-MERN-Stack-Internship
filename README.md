@@ -58,7 +58,7 @@ So I designed this 60-day internship for myself — where:
 | 8  | Tailwind CSS + Practice Project   | 21 June-06 July 2025     | 36 hours      | ✅ Done        |
 | 9  | JavaScript                        | 22 June-10 July 2025     | 72 hours      | ✅ Done        |
 | 10 | Portfolio Project                 | 10 July-xx July 2025     | xx hours      | 🔁 In Progress |
-| 10 | Node.js                           | 10 July-xx July 2025     | xx hours      | 🔁 In Progress |
+| 11 | JavaScript Revision & Practice    | 10 July-xx July 2025     | xx hours      | 🔁 In Progress |
 
 </div>
 
